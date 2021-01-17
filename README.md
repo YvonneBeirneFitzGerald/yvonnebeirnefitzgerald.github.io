@@ -9,6 +9,7 @@ Things Changed:
 * Updated to my picture (Yvonne.png in images) note file is 400x 400
 * changed the background photo used original naming bk-1 original background was 3840 x 2160 updated current size is 1920 x 1280
 * changed tag line and link to blog which can be found in _includes/header.html
+* changed the overlay of the image go to file _sass/uno.scss updaate lines 1228 - 1230 orginal: rgba(68, 68, 68, 0.6) Current: rgba(144, 164, 174, 0.6);
 
 # ****** Original Info ******
 # Jekyll-Uno with Projects as Timeline
