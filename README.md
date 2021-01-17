@@ -7,6 +7,7 @@ Personalized: 17 Jan 2021
 Things Changed:
 
 * PROFILE PIC: updated to my picture (Yvonne.png in images) note file is 400x 400
+  ** updated to my picture (Yvonne.png in images) note file is 400x 400
 * BACKGROUND PICTURE: changed the background photo used original naming bk-1 original background was 3840 x 2160 updated current size is 1920 x 1280
 * TAGLINE: changed tag line and link to blog which can be found in _includes/header.html
 * BACKGROUND OVERLAY: changed the overlay of the image go to file _sass/uno.scss updaate lines 1228 - 1230 orginal: rgba(68, 68, 68, 0.6) Current: rgba(144, 164, 174, 0.6);
