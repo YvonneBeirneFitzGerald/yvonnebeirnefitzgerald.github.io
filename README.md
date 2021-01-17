@@ -4,6 +4,11 @@ Installed: 17 Jan 2021
 
 Personalized: 17 Jan 2021
 
+Things Changed:
+
+* Updated to my picture (Yvonne.png in images) note file is 400x 400
+* changed the background photo used original naming bk-1 original background was 3840 x 2160 updated current size is 1920 x 1280
+
 # ****** Original Info ******
 # Jekyll-Uno with Projects as Timeline
 A Jekyll Theme, based on the Uno-Theme with a list of projects as Timeline.
