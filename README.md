@@ -2,7 +2,7 @@
 Installed: 17 Jan 2021
 Personalized: 17 Jan 2021
 
-# ****** Original Infoo ******
+# ****** Original Info ******
 # Jekyll-Uno with Projects as Timeline
 A Jekyll Theme, based on the Uno-Theme with a list of projects as Timeline.
 
