@@ -6,7 +6,7 @@ baseurl: ''
 profilepic: '/images/yvonne.png'
 bkimage: '/images/bk1.jpg'
 #google_analytics: UA-XXXXXX-X
-font_awesome: 'XXXXXXXXXX.js'
+font_awesome: 'af2d6c88bf.js'
 
 author:
   name: 'Yvonne Beirne FitzGerald'
