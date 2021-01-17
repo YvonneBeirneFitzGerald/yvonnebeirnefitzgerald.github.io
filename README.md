@@ -9,11 +9,25 @@ Things Changed:
 * PROFILE PIC
      * Updated to my picture (Yvonne.png in images) note file is 400x 400
 * BACKGROUND PICTURE
-     * changed the background photo used original naming bk-1 original background was 3840 x 2160 updated current size is 1920 x 1280
-* TAGLINE: changed tag line and link to blog which can be found in _includes/header.html
-* BACKGROUND OVERLAY: changed the overlay of the image go to file _sass/uno.scss updaate lines 1228 - 1230 orginal: rgba(68, 68, 68, 0.6) Current: rgba(144, 164, 174, 0.6);
+     * Changed the background photo used original naming bk-1 original background was 3840 x 2160 updated current size is 1920 x 1280
+* TAGLINE
+     * Changed tag line and link to blog which can be found in _includes/header.html
+* BACKGROUND OVERLAY
+     * Changed the overlay of the image go to file _sass/uno.scss updaate lines 1228 - 1230 orginal: rgba(68, 68, 68, 0.6) Current: rgba(144, 164, 174, 0.6);
 
-# ****** Original Info ******
+
+
+
+
+
+
+
+
+
+
+
+
+#          Original Info 
 # Jekyll-Uno with Projects as Timeline
 A Jekyll Theme, based on the Uno-Theme with a list of projects as Timeline.
 
