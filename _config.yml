@@ -16,7 +16,7 @@ author:
   github_username:  YvonneBeirneFitzGerald
   linkedin_username:  yvonnefitzgerald
  # meetup_name: Azure-Meetup-Rostock-MV
- medium: YvonFitz
+  medium_username: YvonFitz
 
 # Build settings
 destination: _site
