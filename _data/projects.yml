@@ -13,10 +13,10 @@
   img: https://raw.githubusercontent.com/tzuehlke/jekyll-uno-timeline/master/screenshot-overview.png
   desc: This Jekyll Theme. Based on the Uno-Theme with a list of projects as timeline. Like a business card.
 
-- name: Project-Making-PBS-Buffer
+- name: Project Making PBS Buffer (R/Shiny)
   gh_user: yvonnebeirnefitzgerald
-  repo: scripts
-  img: https://github.com/YvonneBeirneFitzGerald/Project-Making-PBS-Buffer/blob/master/noun_flasks_1494468_blue.svg
+  repo: roject-Making-PBS-Buffer
+  img: https://github.com/YvonneBeirneFitzGerald/Project-Making-PBS-Buffer/blob/master/noun_flasks_1494468.png
   desc: Laboratory PBS Buffer Calculator, createtd to use R/Shiny.  
 
 - name: Face API
