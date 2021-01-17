@@ -14,8 +14,8 @@
   desc: This Jekyll Theme. Based on the Uno-Theme with a list of projects as timeline. Like a business card.
 
 - name: Project Making PBS Buffer (R/Shiny)
-  gh_user: yvonnebeirnefitzgerald
-  repo: roject-Making-PBS-Buffer
+  gh_user: YvonneBeirneFitzGerald
+  repo: Project-Making-PBS-Buffer
   img: https://github.com/YvonneBeirneFitzGerald/Project-Making-PBS-Buffer/blob/master/noun_flasks_1494468.png
   desc: Laboratory PBS Buffer Calculator, createtd to use R/Shiny.  
 
