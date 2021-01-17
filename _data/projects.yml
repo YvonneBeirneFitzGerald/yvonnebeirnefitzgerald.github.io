@@ -13,11 +13,11 @@
   img: https://raw.githubusercontent.com/tzuehlke/jekyll-uno-timeline/master/screenshot-overview.png
   desc: This Jekyll Theme. Based on the Uno-Theme with a list of projects as timeline. Like a business card.
 
-- name: Azure Automation Scripts
-  gh_user: tzuehlke
+- name: Project-Making-PBS-Buffer
+  gh_user: yvonnebeirnefitzgerald
   repo: scripts
-  img: https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png
-  desc: Some scripts that I used with Azure Automation. For example a VM Start/Stop script or a script for resetting a VPN tunnel.
+  img: https://github.com/YvonneBeirneFitzGerald/Project-Making-PBS-Buffer/blob/master/noun_flasks_1494468_blue.svg
+  desc: Laboratory PBS Buffer Calculator, createtd to use R/Shiny.  
 
 - name: Face API
   gh_user: ArvatoSystems
