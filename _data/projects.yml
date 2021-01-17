@@ -16,7 +16,7 @@
 - name: Project Making PBS Buffer (R/Shiny)
   gh_user: YvonneBeirneFitzGerald
   repo: Project-Making-PBS-Buffer
-  img: https://github.com/YvonneBeirneFitzGerald/Project-Making-PBS-Buffer/blob/master/noun_flasks_1494468.png
+  img: https://github.com/YvonneBeirneFitzGerald/yvonnebeirnefitzgerald.github.io/blob/main/images/noun_flasks_1494468.png
   desc: Laboratory PBS Buffer Calculator, createtd to use R/Shiny.  
 
 - name: Face API
