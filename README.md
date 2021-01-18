@@ -4,6 +4,9 @@ Installed: 17 Jan 2021
 
 Personalized: 17 Jan 2021
 
+Summary:
+Added Instagram and Medium as options in navigation. Personalized the look and feel of the files
+
 Things Changed:
 
 * PROFILE PIC
