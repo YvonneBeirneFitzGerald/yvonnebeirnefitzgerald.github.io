@@ -18,6 +18,7 @@ author:
  # meetup_name: Azure-Meetup-Rostock-MV
   medium_username: YvonFitz
   instagram_username: theyvonnedata
+  tableau_username: yvonne
 
 # Build settings
 destination: _site
