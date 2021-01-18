@@ -28,7 +28,7 @@ Screen Shots
 
 ![Alt text](/images/GitHubioLanding.png?raw=true "Landing Page")
 
-![Alt text](/images/GitHubLandingwithProjects.png?raw=true "Landing Page")
+![Alt text](/images/GitHubiowithProject.png?raw=true "Landing Page")
 
 
 
