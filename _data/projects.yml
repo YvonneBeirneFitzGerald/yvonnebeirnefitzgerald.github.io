@@ -18,9 +18,3 @@
   repo: Project-Making-PBS-Buffer
   img: https://theyvonne.com/wp-content/uploads/2021/01/noun_flasks_1494468.png
   desc: Laboratory PBS Buffer Calculator, createtd to use R/Shiny.  
-
-- name: Face API
-  gh_user: ArvatoSystems
-  repo: FaceApiWPF
-  img: https://raw.githubusercontent.com/ArvatoSystems/FaceApiWPF/master/FaceApiWPFScreenshot.png
-  desc: Using the WebCam and send continuously pictures to the Azure FaceAPI. The analyzed results like age and emotion drawn on the WebCam stream. 
