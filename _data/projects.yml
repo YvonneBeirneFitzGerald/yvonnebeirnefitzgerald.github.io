@@ -3,7 +3,7 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Python-Cookbook
   gh_user: YvonneBeirneFitzGerald
-  repo: DebugContainer
+  repo: Python-Cookbook
   img: https://theyvonne.com/wp-content/uploads/2021/01/iconfinder_267_Python_logo_4375050.png
   desc: Snippets of Python Code
 
