@@ -25,8 +25,8 @@ Things Changed:
     * Added link to my website's portfolio page
     
 Screen Shots
-![Alt text](/images/GitHub Landing with Projects.png?raw=true "Landing Page")
-![Alt text](/images/GitHubio Landing.png?raw=true "Landing Page")
+![Alt text](/images/GitHubLandingwithProjects.png?raw=true "Landing Page")
+![Alt text](/images/GitHubioLanding.png?raw=true "Landing Page")
 
 
 
