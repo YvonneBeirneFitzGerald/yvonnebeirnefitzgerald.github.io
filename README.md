@@ -5,7 +5,7 @@ Installed: 17 Jan 2021
 Personalized: 17 Jan 2021
 
 Summary:
-Added Instagram and Medium as options in navigation. Personalized the look and feel of the files
+Added Instagram, Tableau and Medium as options in navigation. Created a button for a portfolio link to my website. Personalized the look and feel of the files
 
 Things Changed:
 
@@ -17,10 +17,12 @@ Things Changed:
      * Changed tag line and link to blog which can be found in _includes/header.html
 * BACKGROUND OVERLAY
      * Changed the overlay of the image go to file _sass/uno.scss updaate lines 1228 - 1230 orginal: rgba(68, 68, 68, 0.6) Current: rgba(144, 164, 174, 0.6);
-* INSTAGRAM 
+* INSTAGRAM, TABLEAU, MEDIUM
      * Added instagram as an optioon. Need to make two changes one in _includes/header.html at line 88 copied section starting at line 21. The second add a line to the _config.yml file for instagram user name
 * PROJECTS
     * Add projects to /_data/projects.yml
+* PORTFOLIO
+    * Added link to my website's portfolio page
 
 
 
