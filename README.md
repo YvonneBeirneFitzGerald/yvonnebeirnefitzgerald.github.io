@@ -23,6 +23,10 @@ Things Changed:
     * Add projects to /_data/projects.yml
 * PORTFOLIO
     * Added link to my website's portfolio page
+    
+Screen Shots
+![Alt text](/images/GitHub Landing with Projects.png?raw=true "Landing Page")
+![Alt text](/images/GitHubio Landing.png?raw=true "Landing Page")
 
 
 
