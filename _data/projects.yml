@@ -4,11 +4,11 @@
 - name: Python-Cookbook
   gh_user: YvonneBeirneFitzGerald
   repo: Python-Cookbook
-  img: https://user-images.githubusercontent.com/iconfinder_267_Python_logo_4375050.png
+  img: /images/iconfinder_267_Python_logo_4375050.png
   desc: Snippets of Python Code
 
 - name: Project Making PBS Buffer (R/Shiny)
   gh_user: YvonneBeirneFitzGerald
   repo: Project-Making-PBS-Buffer
-  img: https://user-images.githubusercontent.com/iconfinder_tube-lab-science-school_2824437.png
+  img: /images/iconfinder_tube-lab-science-school_2824437.png
   desc: Laboratory PBS Buffer Calculator, createtd to use R/Shiny.  
