@@ -2,6 +2,13 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 # yf notte placed images in folder at root of project in file called images
+
+- name:  Tool-App-Documention-Templates
+  gh_user: YvonneBeirneFitzGerald
+  repo:  Tool-App-Documention-Templates
+  img: /images/icon Template.png
+  desc: Template To Create End User Documentation For Tools/Apps
+
 - name: Python-Cookbook
   gh_user: YvonneBeirneFitzGerald
   repo: Python-Cookbook
