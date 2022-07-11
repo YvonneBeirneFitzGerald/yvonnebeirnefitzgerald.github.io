@@ -3,11 +3,11 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 # yf notte placed images in folder at root of project in file called images
 
-- name:  Tool-App-Documention-Templates (Markdown/MkDocs)
+- name:  Tool / App Documention Templates (Markdown/MkDocs)
   gh_user: YvonneBeirneFitzGerald
   repo:  Tool-App-Documention-Templates
   img: /images/iconTemplate.png
-  desc: Template To Create End User Documentation For Tools/Apps
+  desc: Template To Create End User Documentation For Tools/Apps using Markdown and MkDocs
 
 - name: Project Making PBS Buffer (R/Shiny)
   gh_user: YvonneBeirneFitzGerald
