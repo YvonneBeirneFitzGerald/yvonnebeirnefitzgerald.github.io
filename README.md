@@ -18,7 +18,7 @@ Things Changed:
 * TAGLINE
      * Changed tag line and link to blog which can be found in _includes/header.html
 * BACKGROUND OVERLAY
-     * Changed the overlay of the image go to file _sass/uno.scss updaate lines 1228 - 1230 orginal: rgba(68, 68, 68, 0.6) Current: rgba(144, 164, 174, 0.6);
+     * Changed the overlay of the image go to file _sass/uno.scss updaate lines 1228 - 1230 orginal: rgba(68, 68, 68, 0.6) First Release: rgba(144, 164, 174, 0.6); Current rgba(226, 247, 255, 0.6)
 * INSTAGRAM, TABLEAU, MEDIUM
      * Added instagram as an optioon. Need to make two changes one in _includes/header.html at line 88 copied section starting at line 21. The second add a line to the _config.yml file for instagram user name
 * PROJECTS
