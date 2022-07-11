@@ -6,7 +6,7 @@
 - name:  Tool / App Documention Templates (Markdown/MkDocs)
   gh_user: YvonneBeirneFitzGerald
   repo:  Tool-App-Documention-Templates
-  img: /images/iconTemplate.png
+  img: /images/iconfinder_267_Python_logo_4375050.png
   desc: Template To Create End User Documentation For Tools/Apps using Markdown and MkDocs
 
 - name: Project Making PBS Buffer (R/Shiny)
