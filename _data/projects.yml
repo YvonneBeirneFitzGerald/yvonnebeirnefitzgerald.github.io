@@ -9,12 +9,6 @@
   img: /images/icon Template.png
   desc: Template To Create End User Documentation For Tools/Apps
 
-- name: Python-Cookbook
-  gh_user: YvonneBeirneFitzGerald
-  repo: Python-Cookbook
-  img: /images/iconfinder_267_Python_logo_4375050.png
-  desc: Snippets of Python Code
-
 - name: Project Making PBS Buffer (R/Shiny)
   gh_user: YvonneBeirneFitzGerald
   repo: Project-Making-PBS-Buffer
