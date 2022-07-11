@@ -3,7 +3,7 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 # yf notte placed images in folder at root of project in file called images
 
-- name:  Tool-App-Documention-Templates
+- name:  Tool-App-Documention-Templates (Markdown/MkDocs)
   gh_user: YvonneBeirneFitzGerald
   repo:  Tool-App-Documention-Templates
   img: /images/icon Template.png
