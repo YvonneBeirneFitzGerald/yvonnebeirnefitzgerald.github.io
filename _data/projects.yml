@@ -7,7 +7,7 @@
   gh_user: YvonneBeirneFitzGerald
   repo:  Project-End-User-Documentation-Template
   img: /images/iconTemplate.png
-  desc: Template To Create End User Documentation For Tools/Apps using Markdown and MkDocs
+  desc: Template To Create End User Documentation For Tools/Apps using Markdown and MkDocs 
 
 - name: Project Making PBS Buffer (R/Shiny)
   gh_user: YvonneBeirneFitzGerald
