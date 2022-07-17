@@ -10,7 +10,7 @@ Added Instagram, Tableau and Medium as options in navigation. Created a button f
 Things Changed:
 
 * address is : https://yvonnebeirnefitzgerald.github.io/
-* Update to theYvonne.ioo
+* Update to : https://theYvonne.io
 
 * PROFILE PIC
      * Updated to my picture (Yvonne.png in images) note file is 400x 400
